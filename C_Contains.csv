@@ -1,0 +1,23 @@
+id1,rel,id2
+C,CONTAINS,dynamic memory allocation in C
+C,CONTAINS,C generics
+C,CONTAINS,C pointers
+C,CONTAINS,C strings
+C,CONTAINS,C struct representation
+C,CONTAINS,function pointers in C
+C,CONTAINS,multi-dimensional arrays in C
+Java,CONTAINS,generic collections in Java
+Java,CONTAINS,interfaces and abstract classes in Java
+Java,CONTAINS,abstract data types
+C,CONTAINS,abstract data types
+C++,CONTAINS,abstract data types
+Python,CONTAINS,abstract data types
+C++,CONTAINS,classes (programming)
+Java,CONTAINS,classes (programming)
+Python,CONTAINS,classes (programming)
+Java,CONTAINS,exceptions (programming)
+Python,CONTAINS,exceptions (programming)
+C,CONTAINS,call stack
+C++,CONTAINS,inheritance (programming)
+Java,CONTAINS,inheritance (programming)
+Python,CONTAINS,inheritance (programming)
