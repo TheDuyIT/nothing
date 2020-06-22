@@ -1,0 +1,35 @@
+cls1,id1,rel,cls2,id2
+Knowledge,Probability Theory,NEED_FOR,Role,Data Science
+Knowledge,Bayesian Statistics,NEED_FOR,Role,Data Science
+Knowledge,Frequentist Statistics,NEED_FOR,Role,Data Science
+Knowledge,Multivariate Calculus,NEED_FOR,Role,Data Science
+Knowledge,Linear Algebra,NEED_FOR,Role,Data Science
+Knowledge,Optimization,NEED_FOR,Role,Data Science
+Knowledge,Programming,NEED_FOR,Role,Data Science
+Programming Language,Python,NEED_FOR,Role,Data Science
+Programming Language,R,NEED_FOR,Role,Data Science
+Knowledge,Visualization,NEED_FOR,Role,Data Science
+Knowledge,Machine Learning,NEED_FOR,Role,Data Science
+Programming Language,Python,NEED_FOR,Role,Data Engineer
+Programming Language,R,NEED_FOR,Role,Data Engineer
+Tool,MS SSIS,NEED_FOR,Role,Data Engineer
+Tool,SSDT (SQL Server Data Tools),NEED_FOR,Role,Data Engineer
+Tool,MongoDB,NEED_FOR,Role,Data Engineer
+Tool,Apache Spark,NEED_FOR,Role,Data Engineer
+Tool,Hadoop,NEED_FOR,Role,Data Engineer
+Tool,Oracle data warehouse,NEED_FOR,Role,Data Engineer
+Tool,Sisense,NEED_FOR,Role,Data Engineer
+Tool,Looker,NEED_FOR,Role,Data Engineer
+Tool,Tableau,NEED_FOR,Role,Data Engineer
+Tool,Power BI,NEED_FOR,Role,Data Engineer
+Tool,Excel,NEED_FOR,Role,Data Engineer
+Knowledge,Machine Learning,NEED_FOR,Role,Data Engineer
+Knowledge,Visualization,NEED_FOR,Role,Data Engineer
+Programming Language,Python,NEED_FOR,Role,Data Analyst
+Programming Language,R,NEED_FOR,Role,Data Analyst
+Knowledge,Visualization,NEED_FOR,Role,Data Analyst
+Tool,MS SSIS,NEED_FOR,Role,Data Analyst
+Tool,SSDT (SQL Server Data Tools),NEED_FOR,Role,Data Analyst
+Tool,Excel,NEED_FOR,Role,Data Analyst
+SoftSkill,Presentation,NEED_FOR,Role,Data Analyst
+SoftSkill,Communication,NEED_FOR,Role,Data Analyst
